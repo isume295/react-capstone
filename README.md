@@ -72,7 +72,7 @@
 
 <!-- LIVE DEMO -->
 
-## 🚀 Walkthrough video <a name="live-demo"></a>
+## 🚀 Walk through <a name="live-demo"></a>
 
 
 - [Click here](https://www.loom.com/share/0d49588c93d24a8daf235c52261c15bd)

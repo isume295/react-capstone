@@ -25,7 +25,7 @@
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
-  - [🚀 Walkthrough ](#-walk-through-)
+  - [🚀 Live Demo ](#-live-demo-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
@@ -67,6 +67,15 @@
 - **Easy to the eyes and cultivating at the same time**
 - **Dynamic creation of content** 
 - **Users can search for a company in the list** 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+
+- [comming soon] 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

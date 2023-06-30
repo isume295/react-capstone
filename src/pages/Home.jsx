@@ -1,7 +1,10 @@
 import React from 'react';
+import FinanceList from '../components/FinanceList';
 
 export default function Home() {
   return (
-    <div>Home</div>
+    <>
+      <FinanceList />
+    </>
   );
 }

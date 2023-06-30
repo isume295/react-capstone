@@ -1,7 +1,10 @@
-import React from 'react';
+import { configureStore } from '@reduxjs/toolkit';
+import financeReducer from './finance/FinanceSlice';
 
-export default function store() {
-  return (
-    <div>store</div>
-  );
-}
+const store = configureStore({
+  reducer: {
+    finance: financeReducer,
+  },
+});
+
+export default store;

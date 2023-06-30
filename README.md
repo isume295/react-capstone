@@ -25,7 +25,7 @@
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
-  - [🚀 Live Demo ](#-live-demo-)
+  - [🚀 Walkthrough ](#-live-demo-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
@@ -74,7 +74,7 @@
 
  
 
-## 🚀 Live Demo <a name="live-demo"></a>
+## 🚀 Walkthrough <a name="live-demo"></a>
 
 
 - [comming soon] 
